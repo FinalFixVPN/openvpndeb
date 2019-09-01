@@ -12,6 +12,6 @@ echo -e ""
 echo -e " OpenSSH Port: 22"$opensshport
 echo -e " Dropbear Port: 442"$dropbearport
 echo -e " SSL Port: 443"$stunnel4port
-echo -e " Squid Ports: 8118"$squidport
+echo -e " Squid Ports: 8090"$squidport
 echo -e " OpenVPN Port: "$openvpnport
 echo -e ""

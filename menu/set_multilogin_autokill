@@ -2,7 +2,7 @@
 
 clear
 echo -e ""
-echo -e " == EkelamOsus == " | lolcat -a
+echo -e " == Final Fix VPN == " | lolcat -a
 echo -e ""
 echo -e "   [1] AutoKill After 5 Minutes"
 echo -e "   [2] AutoKill After 15 Minutes"

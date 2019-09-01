@@ -45,10 +45,10 @@ echo -e "  Password: $Pass"
 echo -e "  Account Expiry: $Expiration_Display"
 echo -e ""
 echo -e "  Host/IP: "$MYIP
-echo -e "  OpenSSH Port: "$opensshport
-echo -e "  Dropbear Port: "$dropbearport
-echo -e "  SSL Port: "$stunnel4port
-echo -e "  Proxy Ports: "$squidport
+echo -e "  OpenSSH Port: "
+echo -e "  Dropbear Port: "
+echo -e "  SSL Port: "
+echo -e "  Proxy Ports: "
 echo -e "  OpenVPN Port: "$openvpnport
 echo -e ""
 echo -e ""
